@@ -1,0 +1,16 @@
+﻿  RandTest.cpp
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244: '=': conversion from '_Rep' to '_Ty', possible loss of data
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         with
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         [
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:             _Rep=__int64
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         ]
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         and
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         [
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:             _Ty=uint32_t
+C:\Users\meter\source\repos\RandTest\RandTest\rng\mersennetwister.h(52,29): warning C4244:         ]
+C:\Users\meter\source\repos\RandTest\RandTest\RandTest.cpp(15,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\meter\source\repos\RandTest\RandTest\RandTest.cpp(15,14): warning C4244:         with
+C:\Users\meter\source\repos\RandTest\RandTest\RandTest.cpp(15,14): warning C4244:         [
+C:\Users\meter\source\repos\RandTest\RandTest\RandTest.cpp(15,14): warning C4244:             T=double
+C:\Users\meter\source\repos\RandTest\RandTest\RandTest.cpp(15,14): warning C4244:         ]
+  RandTest.vcxproj -> C:\Users\meter\source\repos\RandTest\x64\Debug\RandTest.exe
